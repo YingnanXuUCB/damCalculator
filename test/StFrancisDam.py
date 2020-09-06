@@ -10,7 +10,7 @@ damGeometry=damCalculator.geometry.damGeometry(H=85*0.3048,h=170*0.3048,l=15*0.3
                                                c=30*0.3048,hu=200*0.3048,hd=20*0.3048)
 concrete=damCalculator.material.concrete(density=2400)
 water=damCalculator.material.water(density=1000)
-#upliftForce=damCalculator.force.upliftForce(upliftPressure=[(0,598017.6,0)],damGeometry=damGeometry)
+#upliftForce=damCalculator.force.upliftForce(upliftPressure=[(0,598017.6)],damGeometry=damGeometry)
 upliftForce=damCalculator.force.upliftForce(upliftPressure=[(0,0)],damGeometry=damGeometry)
 # Define the model
 

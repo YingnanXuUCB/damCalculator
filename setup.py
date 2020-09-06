@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="YingnanXuUCB", # Replace with your own username
+    name="damcalculator", # Replace with your own username
     version="0.0.1",
     author="YingnanXu",
     author_email="yingnanxu@berkeley.edu",

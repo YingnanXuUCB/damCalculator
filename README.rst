@@ -7,7 +7,7 @@ A useful tool to calculate the dam's slidding and overturning safety factors, al
 Use pip to install damCalculator:
 
 .. code:: bash
-pip install damcalculator
+  pip install damcalculator
 
 
 # Example
@@ -16,10 +16,10 @@ Here's an simple example of how to use this package on the St.Francis dam.
 
 Import some bascis packages:
 
-```bash
+..code::python
   from matplotlib import pyplot as plt
   import damCalculator
-```
+
 
 
 Prepare for plotting:

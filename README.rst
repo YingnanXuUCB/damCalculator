@@ -6,7 +6,7 @@ A useful tool to calculate the dam's slidding and overturning safety factors, al
 
 Use pip to install damCalculator:
 
-```python
+```bash
 pip install damcalculator
 ```
 
@@ -62,3 +62,11 @@ Plot the shape of the dam
 ```python
 model.plotDam.showDam()
 ```
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)

@@ -1,13 +1,5 @@
 # damCalculator
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
 A useful tool to calculate the dam's slidding and overturning safety factors, also can derive all the complicated forces applied to a single dam. The project is programmed in an object-oriented way, so most of the time when you want to pass parameters from one object to another, remember this "parameter" may also be an object.
 
 # Installation

@@ -16,9 +16,10 @@ Here's an simple example of how to use this package on the St.Francis dam.
 
 Import some bascis packages:
 
-.. code:: python
-from matplotlib import pyplot as plt
-import damCalculator
+```bash
+  from matplotlib import pyplot as plt
+  import damCalculator
+```
 
 
 Prepare for plotting:
